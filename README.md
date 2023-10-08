@@ -43,3 +43,30 @@ To download WebStorm, visit JetBrains official website: https://www.jetbrains.co
 1. After **commit**ting, go to VCS > Git > **Push**.
 2. Confirm and push the changes to **GitHub**.
 
+
+#### Step 6: **Pull**ing Changes from **GitHub**
+**Pull**: Fetch changes from the **GitHub** **repository** and **merge** them with your local copy.
+1. To get the latest changes, go to VCS > Git > **Pull**.
+2. Confirm and pull the changes into WebStorm.
+
+
+#### Step 7: Working with **Branch**es
+**Branch**: Different versions of a **repository**. 
+1. To create a new **branch**, go to VCS > Git > **Branch**es > New Branch.
+2. Name your branch and create it.
+3. Switch between branches using the bottom-right panel in WebStorm.
+
+
+#### Step 8: Resolving **Merge Conflicts**
+**Merge Conflict**: Occurs when changes conflict with each other, and Git cannot determine which is correct.
+1. When **pull**ing or **merge**ing changes, WebStorm will alert you if there's a **merge conflict**.
+2. Open the conflicting file. WebStorm highlights the conflicting areas.
+3. Manually choose which changes to keep.
+4. **Commit** and **push** your resolved changes.
+
+
+#### Step 9: Connecting to a **Remote**
+**Remote**: A **repository** hosted on the internet or another network.
+1. To add a **remote**, go to VCS > Git > Remotes.
+2. Add the URL of the remote **repository**.
+3. Now you can **push**, **pull**, and **fetch** changes from this **remote**.
