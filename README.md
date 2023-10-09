@@ -70,3 +70,15 @@ To download WebStorm, visit JetBrains official website: https://www.jetbrains.co
 1. To add a **remote**, go to VCS > Git > Remotes.
 2. Add the URL of the remote **repository**.
 3. Now you can **push**, **pull**, and **fetch** changes from this **remote**.
+
+
+#### Step 10: **Fetch**ing Code from a **Remote**
+**Fetch**: Downloading changes from a **remote** without **merge**ing them.
+1. Go to VCS > Git > **Fetch**.
+2. WebStorm will **fetch** the latest changes from the **remote**, allowing you to review them.
+
+
+### References:
+- [Git Official Documentation](https://git-scm.com/doc)
+- [GitHub Help](https://docs.github.com/en)
+- [WebStorm Documentation](https://www.jetbrains.com/webstorm/documentation/documentation.html)
