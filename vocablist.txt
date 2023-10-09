@@ -1,0 +1,37 @@
+1. **GIT**: A distributed version control system that tracks changes in source code and allows multiple 
+contributors to collaborate on a single project without interfering with each other's work.
+
+2. **GitHub**: A cloud-based platform that provides hosting for software development and uses the **GIT** system 
+for version control. 
+
+3. **Repository (Repo)**: The container for a project in Git. It includes all of the project files and the complete 
+revision history. On GitHub, repositories can be public in which anyone can see and fork or private where only selected users 
+can contribute.
+
+4. **Branch**: Represents a separate line of development in a **repository**. It's a way to work on features or 
+tests without affecting the main, typically called "master" or "main" line of development. Once the work is finalized, it can be 
+merged back into the main branch.
+
+5. **Clone**: The act of copying a **repository** from one location to another, typically from a remote server,like GitHub
+to your local machine. This allows you to work on the project locally.
+
+6. **Commit**: The action of saving a set of changes to the **repository**. Each commit has a unique ID and is associated 
+with a specific message detailing the changes made.
+
+7. **Fetch**: The act of downloading commits, files, and refs from a **remote** repository to your local repository, 
+without making any changes to your local files.
+
+8. **Push**: The act of uploading your local **repository** changes to a **remote** repository like GitHub. This 
+updates the remote repository with your latest commits.
+
+9. **Pull**: A combination of **fetch**ing changes from a **remote** repository and then **merge**ing them into your current 
+branch. This helps to synchronize local and remote development work.
+
+10. **Merge**: The act of integrating changes from one **branch** into another. This combines the work of different branches 
+together.
+
+11. **Merge Conflict**: Arises when there are competing changes, like two people editing the same line of a file differently
+between the merged branches. Git will highlight these conflicts and ask the user to resolve them manually.
+
+12. **Remote**: A version of your project that is hosted on the internet or another network, like GitHub. It's a bookmarked 
+destination to which you can **push** your changes or from which you can **pull** or **fetch** updates.
