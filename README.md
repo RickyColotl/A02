@@ -1,6 +1,8 @@
 # A02
 ### GIT and GitHub Tutorial with WebStorm
 
+### Some definitions to be aware of:
+
 **GIT**: A distributed version control system that helps track changes in source code throughout the development process.
 
 **GitHub**: A cloud-based platform that uses **GIT** for version control, allowing multiple people to collaborate on projects.
@@ -10,7 +12,7 @@
 To download WebStorm, visit JetBrains official website: https://www.jetbrains.com/webstorm/
 
 
-#### Step 1: Setting Up Your Environment
+#### Step 1: Setting Up the Environment
 1. Install **GIT** from [https://git-scm.com/]
 2. Set up an account on **GitHub** at [https://github.com/]
 3. To download WebStorm, visit JetBrains' official website: https://www.jetbrains.com/webstorm/
